@@ -1,31 +1,31 @@
 # TeaSpeak-Updater
 
-Simple to use TeaSpeak-Updater script
+Nem at bruge TeaSpeak-Updater script
 
 
-## Getting Started
+## Kom i gang
 
-### Tested distros
+### Testet distroer
 * Debian
 * Mint
 
-### Prerequisites
+### Forudsætninger
 
-* Linux distro
+* Linux distroer
 * curl
 * TeaSpeak server
 
 
-### Installing
+### Installation
 
-* Download latest version [here](https://github.com/Najsr/TeaSpeak-Updater/archive/master.zip)
-* Extract it
-* Run it
-* Enjoy
+* Hent seneste version [her](https://github.com/MikkelDK/TeaSpeak-Updater-DK/archive/master.zip)
+* Udpak det
+* Kør det
+* God Fornøjelse
 
-### Command Line Option
+### Kommandolinjevalg
 
-* __-f / --force__ - forces update (without prompt)
-* __-p path / --path path__ Sets working path for the script (otherwise executed in the location of the script)
-* __-s / --start__ Starts server after successful update via __teastart.sh start__ (you may add name of script with parameters to change this value)
-	* eg: -s tealoop.sh
+* __-f / --force__ - tvinge opdatering (uden omgående)
+* __-p path / --path path__ Indstiller arbejdssti til scriptet (ellers henrettet i placeringen af scriptet)
+* __-s / --start__ Starter server efter en vellykket opdatering via __teastart.sh start__ (Du kan tilføje navnet på script med parametre for at ændre denne værdi)
+	* f.eks: -s tealoop.sh
