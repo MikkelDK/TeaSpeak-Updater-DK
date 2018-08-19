@@ -2,7 +2,7 @@
 
 Brug af TeaSpeak-Update scriptet er enkelt.
 
-Original projekt (tak og respekt til Najser) [her](https://github.com/Najsr/TeaSpeak-Updater)
+Original projekt (Tak & Respekt til Najsr) [her](https://github.com/Najsr/TeaSpeak-Updater)
 
 
 ## Kom i gang
