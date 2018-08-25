@@ -1,5 +1,5 @@
 #!/bin/bash
-#TeaSpeak updater ved Nicer
+#TeaSpeak updater af Nicer
 #Testet på Debian
 
 #farvekoder fra https://raw.githubusercontent.com/Sporesirius/TeaSpeak-Installer/master/teaspeak_install.sh
